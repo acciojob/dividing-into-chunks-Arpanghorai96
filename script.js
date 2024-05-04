@@ -16,6 +16,7 @@ const divide = (arr, n) => {
 			}
 		}
 	ans.push(subarray)
+	return ans;
 };
 
 	const n = prompt("Enter n: ");
