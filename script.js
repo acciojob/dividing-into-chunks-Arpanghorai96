@@ -18,5 +18,5 @@ const divide = (arr, n) => {
 	ans.push(subarray)
 };
 
-	// const n = prompt("Enter n: ");
-// alert(JSON.stringify(divide(arr, n)));
+	const n = prompt("Enter n: ");
+alert(JSON.stringify(divide(arr, n)));
